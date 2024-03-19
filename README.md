@@ -7,4 +7,4 @@ Contents of this repository:
 2. Duct Sizing (ESP) Spreadsheet Version 1 - *Will upload a newer version after Batch 2. Follow my LinkedIn profile for any updates* 
 3. Different simulation cases of terminal locations particularly throw
 4. Simulation of Auditorium Space
-6. 
+6. Presentation
